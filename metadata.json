@@ -1,0 +1,7 @@
+{
+  "name": "Digital Stamp Master",
+  "description": "A sleek, interactive digital stamp collection app that automatically captures stamps via URL parameters and provides AI-powered rewards and motivational messages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
